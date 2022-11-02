@@ -1,4 +1,5 @@
 # `lisp_iter` 
+[![crates.io](https://img.shields.io/crates/v/lisp_iter)](https://crates.io/crates/lisp_iter/)
 
 Single-pass no-alloc iterator for simple lisp or lisp-like expressions.
 
