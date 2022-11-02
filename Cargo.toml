@@ -1,0 +1,15 @@
+[package]
+name = "lisp_iter"
+description = "Single-pass no-alloc iterator for simple lisp or lisp-like expressions"
+authors = ["DMClVG"]
+license = "MIT"
+version = "0.1.0"
+edition = "2021"
+keywords = ["lisp", "parser", "lexer", "iterator", "iter", "no-std"]
+categories = ["parser-implementations", "no-std"]
+readme = "README.md"
+repository = "https://github.com/DMClVG/lisp_iter"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
