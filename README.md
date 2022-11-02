@@ -12,7 +12,7 @@ fn main() {
 
     println!("{:?}", list.next().unwrap()); // Identifier("this-is-a-identifier")
     println!("{:?}", list.next().unwrap()); // Quote("a")
-    println!("{:?}", list.next().unwrap()); // Integer(0)
+    println!("{:?}", list.next().unwrap()); // Integer(123)
     println!("{:?}", list.next().unwrap()); // Quote("wow")
 }
 ```
